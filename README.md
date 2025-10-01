@@ -102,22 +102,22 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 ## Datasets & Benchmarks
 
 - [MQT Bench](https://github.com/cda-tum/mqt-bench) – Suite of reversible and quantum circuits for benchmarking compilers and simulators.
-- [QASMBench](https://github.com/pnnl/QASMBench) – Open-source benchmark set for fair comparison of quantum software stacks.
-- [SupermarQ](https://supermarq.io/) – Application-centric metrics for comparing quantum hardware performance.
+- [QASMBench](https://github.com/pnnl/QASMBench/) – Open-source benchmark set for fair comparison of quantum software stacks.
+- [SupermarQ](https://superstaq.readthedocs.io/en/latest/apps/supermarq/supermarq.html/) – Application-centric metrics for comparing quantum hardware performance.
 - [Unitary Fund Metriq](https://metriq.info/) – Community database tracking quantum algorithm benchmark results across platforms.
 
 ## Research Papers & Surveys
 
 **Introductory & survey papers**
-- [A Survey of Quantum Computing (arXiv:2011.03294)](https://arxiv.org/abs/2011.03294) – Broad overview of hardware, algorithms, and software stacks.
+- [A Survey of Quantum Computing](https://www.sciencedirect.com/science/article/abs/pii/S1574013718301709) – Broad overview of hardware, algorithms, and software stacks.
 - [National Academies: Quantum Computing – Progress and Prospects (2019)](https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects) – Policy-focused assessment of timelines and challenges.
 - [Quantum Algorithms: An Overview (arXiv:0808.0369)](https://arxiv.org/abs/0808.0369) – Classic survey summarizing the main algorithmic primitives.
-- [Quantum Computing for Computer Scientists (Brown et al.)](https://arxiv.org/abs/2008.06647) – Gentle ramp aimed at CS backgrounds.
+- [Quantum Computing for Computer Scientists (Noson et al.)](https://ccpd.ciens.ucv.ve/wp-content/uploads/2025/03/Noson-S.-Yanofsky-Mirco-A.-Mannucci-Quantum-Computing-for-Computer-Scientists.pdf) – Gentle ramp aimed at CS backgrounds.
 
 **Specialized topics**
 - [Post-Quantum Cryptography Status Report (NIST)](https://csrc.nist.gov/projects/post-quantum-cryptography) – Standardization updates and background references.
 - [Quantum Advantage in Cryptography (arXiv:2206.04078)](https://arxiv.org/abs/2206.04078) – Survey of cryptographic protocols leveraging quantum capabilities.
-- [Quantum Chemistry with Hybrid Algorithms (Nature Reviews Chemistry, 2023)](https://www.nature.com/articles/s41570-023-00471-5) – Review of VQE-style methods for molecular simulation.
+- [Quantum Chemistry with Hybrid Algorithms (Nature Reviews Chemistry, 2023)](https://www.nature.com/articles/s41598-024-67897-8) – Review of VQE-style methods for molecular simulation.
 - [Quantum Error Correction for Beginners (arXiv:0905.2794)](https://arxiv.org/abs/0905.2794) – Introductory tutorial on stabilizer codes and fault tolerance.
 
 ## Journals & Magazines
@@ -132,7 +132,7 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 
 - [IBM Quantum Community](https://www.ibm.com/quantum/community) – Global meetups, hackathons, and collaborative challenges.
 - [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/) – Expert Q&A forum covering theory and practice.
-- [Quantum Open Source Foundation (QOSF) Mentorship](https://qosf.org/projects/) – Cohort-based mentorship advancing open quantum projects.
+- [Quantum Open Source Foundation (QOSF) Mentorship](https://qosf.org/) – Cohort-based mentorship advancing open quantum projects.
 - [Quantum.Tech Community](https://www.quantumtechcongress.com/) – Industry-focused events and regional meetups.
 - [r/QuantumComputing](https://www.reddit.com/r/QuantumComputing/) – Community discussions, news, and project showcases.
 
@@ -149,16 +149,16 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 
 - [APS March Meeting – Quantum Information Track](https://march.aps.org/) – Extensive technical program spanning hardware and algorithms.
 - [IEEE International Conference on Quantum Computing and Engineering (QCE)](https://qce.quantum.ieee.org/) – Flagship annual event with tutorials and competitions.
-- [Q2B Conference](https://www.q2b-conference.com/) – Industry summit highlighting commercialization progress.
-- [Quantum.Tech](https://www.quantumtechcongress.com/events) – Global series focused on enterprise adoption and standards.
-- [SciRate Quantum Talks](https://scirate.com/category/quant-ph) – Community-curated talk announcements and paper discussions.
+- [Q2B Conference](https://q2b.qcware.com/) – Industry summit highlighting commercialization progress.
+- [Quantum.Tech](https://www.alphaevents.com/events-quantumtech/) – Global series focused on enterprise adoption and standards.
+- [SciRate Quantum Talks](https://scirate.com/search?utf8=%E2%9C%93&q=Quantum+Computing/) – Community-curated talk announcements and paper discussions.
 
 ## Use Cases & Case Studies
 
 - [Bain & Company: Quantum Computing Moves from Theoretical to Inevitable (2025)](https://www.bain.com/insights/quantum-computing-moves-from-theoretical-to-inevitable-technology-report-2025/) – Market analysis on near-term business value.
-- [BCG: Where Will Quantum Computing Create Business Value?](https://www.bcg.com/publications/2021/quantum-computing-business-value) – Framework for prioritizing initiatives across industries.
-- [Deloitte: Quantum Computing in Financial Services](https://www2.deloitte.com/us/en/pages/consulting/articles/quantum-computing-in-financial-services.html) – Practical assessment of risk management and optimization use cases.
-- [IBM Quantum Industry Case Studies](https://www.ibm.com/quantum/resources/industry) – Collection of cross-sector pilots and proof-of-concept results.
+- [BCG: Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when/) – Framework for prioritizing initiatives across industries.
+- [Deloitte: Quantum Computing Services](https://www.deloitte.com/us/en/what-we-do/capabilities/quantum/services/quantum-computing-services.html/) – Practical assessment of risk management and optimization use cases.
+- [IBM Quantum Industry Case Studies](https://www.ibm.com/quantum/resources/industry/) – Collection of cross-sector pilots and proof-of-concept results.
 
 ## Contributing
 
