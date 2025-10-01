@@ -33,17 +33,17 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 
 - [Complex Numbers and Probability (Brilliant)](https://brilliant.org/courses/quantum-computing/) – Interactive modules on amplitudes, phases, and measurement probabilities.
 - [Linear Algebra – Gilbert Strang (MIT OCW)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) – Definitive lecture series on matrices, eigenvalues, and vector spaces.
-- [Linear Algebra for Quantum Computing (Qiskit YouTube Playlist)](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrmdJ9XQ4kNxTmPyiXBZLUr) – Quantum-focused recaps with coding exercises.
-- [Mathematics for Quantum Mechanics (Coursera)](https://www.coursera.org/learn/mathematics-for-quantum-mechanics) – Refresher on bras, kets, and operators for physics newcomers.
-- [Quantum Computation Lecture Notes (University of Waterloo)](https://cs.uwaterloo.ca/~watrous/quantum-information/) – Graduate-level notes emphasizing linear algebra foundations.
+- [Linear Algebra for Quantum Computing (Qiskit YouTube Playlist)](https://www.youtube.com/watch?v=ZNz7DN1K0Y0/) – Quantum-focused recaps with coding exercises.
+- [Mathematics for Quantum Mechanics (Coursera)](https://www.coursera.org/specializations/packt-the-complete-quantum-computing-course-for-beginners) – Refresher on bras, kets, and operators for physics newcomers.
+- [Quantum Computation Lecture Notes (University of Waterloo)](https://cs.uwaterloo.ca/~watrous/QC-notes/) – Graduate-level notes emphasizing linear algebra foundations.
 
 ## Courses & Bootcamps
 
-- [edX Professional Certificate in Quantum Computing (DelftX)](https://www.edx.org/professional-certificate/delftx-quantum-101-quantum-computing-quantum-internet) – Two-course pathway from basics to quantum networking concepts.
-- [MIT xPRO: Quantum Computing Fundamentals](https://xpro.mit.edu/courses/course-v1:xPRO+QCFx1/) – Instructor-led program with labs on IBM Quantum hardware.
+- [edX Professional Certificate in Quantum Computing (DelftX)](https://www.edx.org/certificates/professional-certificate/delftx-quantum-computing-and-quantum-internet) – Two-course pathway from basics to quantum networking concepts.
+- [MIT xPRO: Quantum Computing Fundamentals](https://learn-xpro.mit.edu/quantum-computing?utm_term=quantum%20computer%20science&utm_campaign=Program+-+Quantum+Computing+-+Run+22+-+Search+-+Lead+Gen+-+B/Developing&utm_source=adwords&utm_medium=ppc&hsa_acc=2285614976&hsa_cam=21385478854&hsa_grp=162220234926&hsa_ad=702429123567&hsa_src=g&hsa_tgt=kwd-313845425205&hsa_kw=quantum%20computer%20science&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21385478854&gclid=Cj0KCQjwovPGBhDxARIsAFhgkwSmN4AdVJV_am4yQWeWfyBcpS9QuaSUI8BV8KDEyr4XZbx40PhopyUaAkF4EALw_wcB) – Instructor-led program with labs on IBM Quantum hardware.
 - [Quantum Computing Fundamentals (Qiskit Global Summer School archives)](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvq-w0faL8i3Lz7iQus9nIhN) – Recorded lectures and guided labs covering circuits and algorithms.
 - [The Quantum School by Q-CTRL (Black Opal)](https://q-ctrl.com/black-opal) – Interactive lessons with visualizations and spaced repetition.
-- [University of Toronto: Quantum Machine Learning](https://www.coursera.org/learn/quantum-machine-learning) – Applies PennyLane to introduce hybrid ML workflows.
+- [University of Toronto: Quantum Machine Learning](https://www.coursera.org/articles/quantum-machine-learning) – Applies PennyLane to introduce hybrid ML workflows.
 
 ## Hands-on Tutorials & Notebooks
 
@@ -57,9 +57,8 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 
 - [Coding with Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqHl5YhZP5M2p17fZ5KgLeY) – Tutorials on algorithms, tooling, and best practices.
 - [Entangled Things](https://entangledthings.com/) – Weekly conversations about quantum technologies and theory.
-- [Quantum Computing Now](https://feeds.transistor.fm/quantum-computing-now) – Digestible updates on algorithms and hardware milestones.
-- [The Quantum Pod (Q-CTRL)](https://q-ctrl.com/podcast) – Interviews with researchers and industry leaders.
-- [Two Minute Papers: Quantum Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXgnqkVUvRsm4DtE6tvwFFxaM) – Bite-sized summaries of recent research developments.
+- [Quantum Computing Now](https://open.spotify.com/show/1HkoORYW4aJdo0qjnVLodD) – Digestible updates on algorithms and hardware milestones.
+- [The Quantum Pod (Q-CTRL)](https://q-ctrl.com/learning-center/webinars) – Interviews with researchers and industry leaders.
 
 ## Libraries & SDKs
 
@@ -82,7 +81,7 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 **IDEs & visual builders**
 - [IBM Quantum Composer](https://quantum.ibm.com/composer) – Drag-and-drop circuit editor backed by live calibration data.
 - [IBM Quantum Lab](https://quantum.ibm.com/lab) – Managed Jupyter environment with pre-installed quantum SDKs.
-- [Microsoft Quantum Development Kit for VS Code](https://marketplace.visualstudio.com/items?itemName=quantum.QDK) – Extension providing Q# syntax highlighting, debugging, and templates.
+- [Microsoft Quantum Development Kit for VS Code](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode) – Extension providing Q# syntax highlighting, debugging, and templates.
 - [Quirk](https://algassert.com/quirk) – Browser-based circuit playground for rapid intuition building.
 
 **Workflow & orchestration**
