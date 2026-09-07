@@ -134,6 +134,7 @@ Entries are alphabetical inside each section. Prefer concise descriptions (≤2 
 - [Quantum Open Source Foundation (QOSF) Mentorship](https://qosf.org/) – Cohort-based mentorship advancing open quantum projects.
 - [Quantum.Tech Community](https://www.quantumtechcongress.com/) – Industry-focused events and regional meetups.
 - [r/QuantumComputing](https://www.reddit.com/r/QuantumComputing/) – Community discussions, news, and project showcases.
+- [Semiconductor Calendar – Quantum Hardware Events](https://semiconductorcalendar.com/topics/quantum-hardware/) – Free public tracker of upcoming quantum-hardware conferences, workshops, webinars, and technical events, with links to official organizer pages.
 
 ## Newsletters & Blogs
 
